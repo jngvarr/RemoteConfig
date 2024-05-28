@@ -1,0 +1,2 @@
+jwt:
+  secret: "EFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/M="
